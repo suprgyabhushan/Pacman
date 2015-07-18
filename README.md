@@ -1,2 +1,1 @@
-# Pacman
-Pacman Game in C
+PACMAN in C programming.
